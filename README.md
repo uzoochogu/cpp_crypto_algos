@@ -2,11 +2,11 @@
 
 ## Build steps
 
-Linux or MacOS.  See [here](https://github.com/profitviews/cpp_crypto_algos/blob/main/windows.md) for Windows.
+Linux or MacOS.  See [here](https://github.com/uzoochogu/cpp_crypto_algos/blob/main/windows.md) for Windows.
 
 1. Clone project
    ```
-   git clone https://github.com/profitviews/cpp_crypto_algos.git cpp_crypto_algos
+   git clone https://github.com/uzoochogu/cpp_crypto_algos.git cpp_crypto_algos
    cd cpp_crypto_algos
    ```
 
