@@ -3,7 +3,7 @@
 ## Build steps
 
 ### A. Windows
-
+[Check this for a more comprehensive guide](../windows.md)
 #### Build steps
 
 1. From the Windows main menu, start a PowerShell terminal
